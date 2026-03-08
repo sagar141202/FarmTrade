@@ -28,6 +28,7 @@ pydantic_core==2.41.5
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
 python-jose==3.5.0
+python-multipart==0.0.22
 rsa==4.9.1
 scikit-learn==1.8.0
 scipy==1.17.1
